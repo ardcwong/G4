@@ -15,16 +15,11 @@ st.text("    insights, identifying 5 distinct subgroups")
 
 st.title("MEET THE CLUSTERS")
 st.image("streamlit_demo/images/Kmeans.png")
+st.text("Top | Interpretation: These are highly active and valuable customers who purchase")
+st.text("      frequently and spend a lot. They are your top customers.")
+st.text("Engaged | Interpretation: Customers in this cluster are also active but with a")
+st.text("          moderate level of spending compared to Top Customers.")
+st.text("At-Risk | Interpretation: Customers in this cluster have not made a purchase in a")
+st.text("          long time, buy infrequently, and spend less. They might be at risk of 
+st.text("          churning.")
 
-st.header("Top Customers")
-st.text("Highly active and valuable customers who purchase frequently and spend a lot")
-st.image("streamlit_demo/images/top.png")
-
-st.header("Engaged Customers")
-st.text("Active but with a moderate level of spending compared to top customers")
-st.image("streamlit_demo/images/engaged.png")
-
-
-st.header("At-Risk Customers")
-st.text("No recent purchases, buy infrequently, and spend less. They might be at risk of churning")
-st.image("streamlit_demo/images/risk.png")
