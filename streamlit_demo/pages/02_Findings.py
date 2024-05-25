@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("Findings")
+st.title("Customer Demographics")
 st.write("Based on AAC Credit Card Transactions as of December 7, 2021")
 
 
