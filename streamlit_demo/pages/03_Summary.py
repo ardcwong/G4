@@ -15,7 +15,7 @@ st.write("To further improve the performance of the top categories, we could als
 
 st.header("Engaged Customers")
 st.image("streamlit_demo/images/engaged.png")
-st.text("Top and Engaged customers spend the most in physical grocery stores (grocery_pos).")
+st.text("Top 3 categories: grocery pos, kids and pets, shopping pos")
 st.write("Compared to the top customers, the engaged customers have volatile spending patterns. To boost some of the dips in some months for specific categories, design targeted promotions and offers that encourage higher spending, such as spend-and-get offers where customers receive a reward after spending a certain amount within a certain period.")
 st.write("There are also some months where all categories need improvement we could offer seasonal incentives during key months, such as February and September to boost spending. These could include limited-time discounts or holiday-themed rewards.")
 
