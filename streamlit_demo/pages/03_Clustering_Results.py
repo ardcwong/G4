@@ -32,3 +32,8 @@ st.text("Top Customers: 50-55% of transaction volume & expenditure")
 st.text("Engaged Customers: Significant contribution to volume & expenditure")
 st.text("At-Risk Customers: Minimal transaction activity. Only notable expenditure for 4")
 st.text("months")
+
+st.header("Customer Spending per Cluster per Category")
+st.image("streamlit_demo/images/tree.png")
+st.text("Top and Engaged customers spend the most in physical grocery stores (grocery_pos).")
+st.text("At-Risk customers spend the most in  online shopping (shopping_net)")
