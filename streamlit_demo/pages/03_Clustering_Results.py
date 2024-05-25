@@ -13,6 +13,18 @@ st.text("    low-value customers. While the 5-cluster model provides more detail
 st.text("    insights, identifying 5 distinct subgroups")
 
 
-st.title("Meet the Clusters")
-st.text("1 | Based on our clustering analysis , the elbow method suggests 3 optimal")
-st.image("streamlit_demo/images/Top.png")
+st.title("MEET THE CLUSTERS")
+st.image("streamlit_demo/images/kmeans.png")
+
+st.header("Top Customers")
+st.text("Highly active and valuable customers who purchase frequently and spend a lot")
+st.image("streamlit_demo/images/top.png")
+
+st.header("Engaged Customers")
+st.text("Active but with a moderate level of spending compared to top customers")
+st.image("streamlit_demo/images/engaged.png")
+
+
+st.header("At-Risk Customers")
+st.text("No recent purchases, buy infrequently, and spend less. They might be at risk of churning")
+st.image("streamlit_demo/images/risk.png")
