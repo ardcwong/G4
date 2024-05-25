@@ -15,8 +15,7 @@ st.text("Compared to 78 users in 2020, there was an increase in active customers
 
 st.header("Age")
 st.image("streamlit_demo/images/Age.png")
-st.text("The age range of cardholders is between 51 and 90, with the mean age being 67.
-")
+st.text("The age range of cardholders is between 51 and 90, with the mean age being 67.")
 
 st.header("Generation Distribution")
 st.image("streamlit_demo/images/Generation.png")
