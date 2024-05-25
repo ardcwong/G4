@@ -25,13 +25,18 @@ st.text("The majority of these customers are from the Baby Boomer generation.")
 
 
 st.title("Transaction and Spending")
-st.write("Based on AAC Credit Card Transactions as of December 7, 2021")
-
-st.header("YoY Monthly Transaction Counts")
-st.image("streamlit_demo/images/mon_trans.png")
 st.text("Looking at these YoY Monthly Transaction counts and amounts, we can see that despite")
 st.text("transaction counts remaining completely on trend, it's evident that certain months")
 st.text("on monthly transaction amount struggle to be consistent with the overall trend.")
+
+st.header("YoY Monthly Transaction Counts")
+st.image("streamlit_demo/images/mon_trans.png")
+st.header("YoY Monthly Transaction Amount")
+st.image("streamlit_demo/images/mon_trans_amt.png")
+st.text("Note: There was a significant dip in December 2021, primarily due to")
+st.text("incomplete transaction records ending on December 7th.")
+
+
 
 #st.header("1. Top customer spending behavior by category")
 #st.image("streamlit_demo/images/total_spending.png")
