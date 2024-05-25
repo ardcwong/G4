@@ -38,4 +38,4 @@ st.write("This insight can help us develop an alert system to monitor trends in 
 st.text("")
 st.text("")
 st.text("")
-st.write("DATASQU4D: Arden Sarmiento | Austine Wong | Bea Reyes | Evian Aguilar | Japhet Pamonag")
+st.write("DATASQU4D: Arden Sarmiento | Austine Wong | Bea Reyes | Evian Aguilar | Japhet Pamonag | Mentor Ian")
