@@ -1,10 +1,15 @@
 import streamlit as st
 
-st.title("Customer Demographics")
+st.title("CUSTOMER SEGMENTATION")
 st.write("Based on AAC Credit Card Transactions as of December 7, 2021")
 
 
-st.header("Gender")
-st.text("AAC Credit Card Holders demographic shows a strong gender disparity with males")
-st.text("comprising 94% and females just 6% of the cardholders.")
-st.image("streamlit_demo/images/Gender.png")
+st.header("Elbow Method and Silhouette Score forOptimal Number of Cluster")
+st.image("streamlit_demo/images/Cluster.png")
+st.text("1 | Based on our clustering analysis , the elbow method suggests 3 optimal")
+st.text("    clusters while the silhouette score indicates 5.") 
+st.text("2 | The 3-cluster model offers a simpler segmentation of high, medium, and")
+st.text("    low-value customers. While the 5-cluster model provides more detailed")
+st.text("    insights, identifying 5 distinct subgroups")
+
+
