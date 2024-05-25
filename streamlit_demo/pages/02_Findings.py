@@ -29,9 +29,9 @@ st.write("Based on AAC Credit Card Transactions as of December 7, 2021")
 
 st.header("YoY Monthly Transaction Counts")
 st.image("streamlit_demo/images/mon_trans.png")
-st.text("Looking at these YoY Monthly Transaction counts and amounts, we can see that")
-st.text("Despite transaction counts remaining completely on trend, it's evident that certain")
-st.text("months on monthly transaction amount struggle to be consistent with the overall trend.")
+st.text("Looking at these YoY Monthly Transaction counts and amounts, we can see that despite")
+st.text("transaction counts remaining completely on trend, it's evident that certain months")
+st.text("on monthly transaction amount struggle to be consistent with the overall trend.")
 
 #st.header("1. Top customer spending behavior by category")
 #st.image("streamlit_demo/images/total_spending.png")
