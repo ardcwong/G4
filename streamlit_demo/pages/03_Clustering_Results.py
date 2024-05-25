@@ -14,7 +14,7 @@ st.text("    insights, identifying 5 distinct subgroups")
 
 
 st.title("MEET THE CLUSTERS")
-st.image("streamlit_demo/images/kmeans.png")
+st.image("streamlit_demo/images/Kmeans.png")
 
 st.header("Top Customers")
 st.text("Highly active and valuable customers who purchase frequently and spend a lot")
