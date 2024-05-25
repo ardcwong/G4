@@ -9,7 +9,7 @@ st.text("AAC Credit Card Holders demographic shows a strong gender disparity wit
 st.image("streamlit_demo/images/Gender.png")
 
 st.header("Active Customers per year")
-st.image("streamlit_demo/images/Active Customer.png")
+st.image("streamlit_demo/images/Active.png")
 st.text("Compared to 78 users in 2020, there was an increase in active customers in 2021, with 88 active users.")
 
 
