@@ -20,6 +20,6 @@ st.text("      frequently and spend a lot. They are your top customers.")
 st.text("Engaged | Interpretation: Customers in this cluster are also active but with a")
 st.text("          moderate level of spending compared to Top Customers.")
 st.text("At-Risk | Interpretation: Customers in this cluster have not made a purchase in a")
-st.text("          long time, buy infrequently, and spend less. They might be at risk of 
+st.text("          long time, buy infrequently, and spend less. They might be at risk of") 
 st.text("          churning.")
 
