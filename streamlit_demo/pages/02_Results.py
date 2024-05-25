@@ -1,7 +1,7 @@
 import streamlit as st
 
-st.title("Results")
-st.write("Here you can put each of your key results.")
+st.title("Findings")
+st.write("Based on AAC Credit Card Transactions as of December 7, 2021")
 
 
 st.header("Gender")
