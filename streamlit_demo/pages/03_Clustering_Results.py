@@ -26,3 +26,9 @@ st.text("At-Risk | Interpretation: Customers in this cluster have not made a pur
 st.text("          long time, buy infrequently, and spend less. They might be at risk of") 
 st.text("          churning.")
 
+st.header("Transaction and Spending Distribution of each Cluster")
+st.image("streamlit_demo/images/dist.png")
+st.text("Top Customers: 50-55% of transaction volume & expenditure")
+st.text("Engaged Customers: Significant contribution to volume & expenditure")
+st.text("At-Risk Customers: Minimal transaction activity. Only notable expenditure for 4")
+st.text("months")
