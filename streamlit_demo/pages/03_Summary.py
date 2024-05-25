@@ -35,5 +35,7 @@ st.write("Our model achieved an R-squared of 0.47, indicating a moderate positiv
 st.write("For instance, a decrease in spending or transaction volume in these categories suggests a potential drop in total revenue, and vice versa.")
 st.write("This insight can help us develop an alert system to monitor trends in these critical categories. If a decreasing trend is detected, prompt action can be taken to mitigate potential revenue losses.")
 
-
-
+st.text("")
+st.text("")
+st.text("")
+st.write("DATASQU4D: Arden Sarmiento | Austine Wong | Bea Reyes | Evian Aguilar | Japhet Pamonag")
