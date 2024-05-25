@@ -13,7 +13,7 @@ st.write("DATASQU4D, one of the data science consultancy teams, was challenged t
 
 st.text("")
 st.text("")
-st.write("Arden Sarmiento | Austine Wong | Bea Reyes | Evian Aguilar | Japhet Pamonag")
+st.write("Arden Sarmiento | Austine Wong | Bea Reyes | Evian Aguilar | Japhet Pamonag | Mentor Ian")
 
 
 
