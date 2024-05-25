@@ -45,6 +45,7 @@ st.text("1 | The high expenditure on groceries and kids and pets indicates that 
 st.text("    prioritize essential and family-related expenses.")
 st.text("2 | Significant spending on gas_transport, food_dining, and shopping points to a")
 st.text("    lifestyle that values mobility and social activities.")
+st.text("")
 st.text("Overall, these insights suggest that AAC Credit Card Holders are family-oriented, mobile,")
 st.text("socially active, and financially confident, providing a clear direction for targeted")
 st.text("marketing and service offerings.")
